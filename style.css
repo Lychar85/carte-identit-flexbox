@@ -1,0 +1,43 @@
+body {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    height: 1000px;
+    font-size: 18px;
+}
+
+
+
+
+.carte {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.indentite {
+    height: 500px;
+    width: 1000px;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.user {
+    margin-left: 50px;
+
+}
+
+.titre {
+    font-size: 400%;
+
+}
+
+.stxt {
+    margin-bottom: 50px;
+    opacity: 0.7;
+}
